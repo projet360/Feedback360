@@ -1,0 +1,155 @@
+/* CSS Général */
+body {
+	background-color: #293540;
+}
+.orbit-bullets {
+	display: none;
+}
+
+.orbit-slide-number {
+	display: none;
+}
+
+.row {
+	margin-top:20px;
+}
+
+.panel {
+	margin-bottom:0;
+}
+
+.footer {
+	margin-top: 20px;
+}
+
+.top-bar {
+	background-color: #e1ebf5;
+}
+
+.top-bar-section li:not(.has-form) a:not(.button) {
+    background: #ff350d;
+    line-height: 2.8125rem;
+    padding: 0 0.9375rem;
+}
+
+.top-bar-section li.active:not(.has-form) a:not(.button):hover {
+    background: #ff350d;
+    color: #e1ebf5;
+}
+.top-bar .name h1 a, .top-bar .name h2 a, .top-bar .name h3 a, .top-bar .name h4 a, .top-bar .name p a, .top-bar .name span a {
+    color: #ff350d;
+    display: block;
+    font-weight: normal;
+    padding: 0 0.9375rem;
+}
+
+.top-bar-section li.active:not(.has-form) a:not(.button) {
+	background-color: #e1ebf5;
+	color: #ff350d;
+}
+/* Fin CSS Général */
+
+/* CSS Home Page */
+
+.home_etudiant {
+	background-color:lightyellow;
+	height: 300px;
+}
+
+
+.example-orbit-content h2 {
+	padding-left:30px;
+	padding-top:10px;
+}
+
+.example-orbit-content img {
+	padding-left:30px;
+	padding-bottom: 10px;
+}
+
+
+.home_description {
+	background-color:lightblue;
+	height: 300px;
+}
+
+.home_projet {
+	background-color:lightgreen;
+	height: 300px;
+}
+
+/* Fin CSS Home page */
+
+/* CSS profil_etu.html */
+
+.etu_overview {
+	height: 300px;
+}
+
+.etu_overview .note {
+	background-color: lightgreen;
+	height: 300px;
+}
+
+.etu_overview .legende {
+	background-color: lightyellow;
+	height: 300px;
+}
+
+.etu_overview .swot {
+	background-color: lightpink;
+	height: 300px;
+}
+
+.etu_description {
+	background-color:lightgreen;
+	height: 100px;
+}
+
+
+.etu_projet {
+	background-color:lightgreen;
+	height: 300px;
+}
+
+.etu_progression {
+	background-color:lightgreen;
+	height: 300px;
+}
+
+.etu_linkedin {
+	background-color:lightgreen;
+	height: 300px;
+}
+
+/* Fin CSS profil_etu.html */
+
+/* CSS Liste étu */
+
+.liste_etu .tabs-content {
+	height: 400px;
+	background-color:lightblue;
+}
+
+/* CSS Fin liste étu */
+
+/* CSS Mes projets */
+.notes_etu {
+	height:200px;
+	background-color:lightblue;
+	border:1px #FFF solid;
+}
+
+.note_projet {
+	height:200px;
+	background-color:lightgreen;
+	border:1px #FFF solid;
+}
+
+
+.bloc_notes_etu {
+    display: none;
+  }
+
+
+/* CSS Fin Mes projets */
